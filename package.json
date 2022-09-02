@@ -38,6 +38,9 @@
     "@clappr/core": "^0.4.18",
     "hls.js": "^0.14.17"
   },
+  "dependencies": {
+    "hls.js": "^1.2.1"
+  },
   "devDependencies": {
     "@babel/core": "^7.14.2",
     "@babel/preset-env": "^7.14.2",
@@ -50,7 +53,6 @@
     "coveralls": "^3.1.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.26.0",
-    "hls.js": "^1.2.1",
     "jest": "^26.6.3",
     "rollup": "^2.47.0",
     "rollup-plugin-filesize": "^9.1.1",
